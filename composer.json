@@ -2,7 +2,7 @@
     "name": "thawkins/shanty-mongo",
     "description": "Shanty Mongo is a mongodb library for the Zend Framework.",
     "keywords": ["zend", "mongodb", "orm", "nosql"],
-    "homepage": "https://github.com/thawkins/Shanty-Mongo",
+    "homepage": "https://github.com/thawkins/shanty-mongo",
     "type": "library",
     "license": "BSD-3-Clause",
     "authors": [
